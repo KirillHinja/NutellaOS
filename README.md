@@ -11,3 +11,12 @@ Run the console : pastebin run
 # Programming languages used:
 1. Lua
 2. HTTP (GitHub, Pastebin)
+# Opportunities (Scopes)
+1. Compatible with Open Security, Industrial Craft, Mine OS EFI
+2. Low Requirements
+3. Functional
+4. Cool IDE
+5. FTP Client (really)
+6. Drone control (Robot Control)
+# When will the OS be released?
+Honestly, I can't say, but! This OS will be compatible with Open Security, Industrial Craft, Drone Control, Not really, but a graphical shell
