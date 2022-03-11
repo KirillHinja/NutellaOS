@@ -1,1 +1,3 @@
-print("NuttelaOS Loading")
+local osname = "NuttelaOS"
+
+print(osname)
