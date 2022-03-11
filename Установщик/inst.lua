@@ -1,1 +1,0 @@
-print("Nuttela OS Loading...")
