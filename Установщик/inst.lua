@@ -1,0 +1,1 @@
+print("Nuttela OS Loading...")
